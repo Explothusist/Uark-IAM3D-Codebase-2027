@@ -1,2 +1,2 @@
 # Uark-IAM3D-Codebase-2027
-pee pee poo poo
+This is the codebase for that ISME-IAM3D competition stuff, so that's cool.
